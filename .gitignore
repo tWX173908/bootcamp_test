@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Bootcamp_API/Bootcamp_API/bin/Debug/net8.0
+/Bootcamp_API/Bootcamp_API/obj
+/.vs
+/Bootcamp_API/.vs/Bootcamp_API
